@@ -1,0 +1,11 @@
+a=12
+b=13
+t=(a,b)
+print(t)
+u,v=t
+print(u,v)
+a=23
+b=12
+c=67
+u,v,r=a,b,c
+print(u,v,r)

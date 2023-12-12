@@ -1,0 +1,16 @@
+l=[1,2,3,4,5,6]
+print(l)
+l.clear()
+print(l)
+l=[1,2,3,4,5,6]
+print(l)
+l[:]=[]
+print(l)
+l=[1,2,3,4,5,6]
+print(l)
+l[2:5]=[]
+print(l)
+l=[22,33,51,11,3,2,67,6,8,9,19]
+print(l)
+l.sort(self=12)
+print(l)

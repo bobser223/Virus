@@ -1,0 +1,11 @@
+#a,c,b,d,m = [float(d) for d in input().split()]
+a=(2)
+c=(1)
+b=(8)
+d=(4)
+m=(0.5)
+l=(b/a)
+j=(d/c)
+t=(l*m)
+y=(j*m)
+print (f"{t: 0.2f}", (f"{y: 0.2f}"))
